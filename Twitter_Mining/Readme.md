@@ -1,7 +1,4 @@
-# Twitter Mining
-
 ![alt_text](https://raw.githubusercontent.com/rthorst/Technical_Presentations/master/Twitter_Mining/ppt_screenshot.PNG)
-
 
 These are slides from a workshop on twitter mining - with myself and Rob O'Reilly, PhD, at Emory University Center for Digital Scholarship.
 
