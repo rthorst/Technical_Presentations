@@ -9,4 +9,3 @@ Slides: https://github.com/rthorst/Technical_Presentations/blob/master/Twitter_M
 
 Code Demo (Python): https://github.com/rthorst/Technical_Presentations/blob/master/Twitter_Mining/Twitter_mining.ipynb
 
-![alt_text](https://raw.githubusercontent.com/rthorst/Technical_Presentations/master/Twitter_Mining/colab_screenshot.PNG)
