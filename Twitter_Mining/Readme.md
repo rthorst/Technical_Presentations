@@ -2,7 +2,7 @@
 
 These are slides from a workshop on twitter mining - with myself and Rob O'Reilly, PhD, at Emory University Center for Digital Scholarship.
 
-The workshops has two parts: 
+The workshop has two parts: 
 
 * **Python code** in a Juypyter notebook: https://github.com/rthorst/Technical_Presentations/blob/master/Twitter_Mining/Twitter_mining.ipynb
 
