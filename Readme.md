@@ -13,4 +13,4 @@ https://github.com/rthorst/Technical_Presentations/blob/master/Intro_Python/Intr
 ## Experimental Design
 
 https://github.com/rthorst/Technical_Presentations/blob/master/Experimental_Design/Experimental_Design.pdf
-![alt_text]()
+![alt_text](https://raw.githubusercontent.com/rthorst/Technical_Presentations/master/Experimental_Design/experimental_design.png)
