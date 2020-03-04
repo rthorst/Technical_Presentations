@@ -9,3 +9,8 @@ https://github.com/rthorst/Technical_Presentations/tree/master/Twitter_Mining
 
 https://github.com/rthorst/Technical_Presentations/blob/master/Intro_Python/Introduction_to_Python.ipynb
 ![alt_text](https://raw.githubusercontent.com/rthorst/Technical_Presentations/master/Intro_Python/intro_python_screenshot.PNG)
+
+## Experimental Design
+
+https://github.com/rthorst/Technical_Presentations/blob/master/Experimental_Design/Experimental_Design.pdf
+![alt_text]()
